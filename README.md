@@ -2,6 +2,8 @@
 
 This repository has been forked from [UniswapV2](https://github.com/Uniswap/uniswap-sdk)
 
+This is the npm https://www.npmjs.com/package/evmoswap-sdkv2
+
 ## Running tests
 
 To run the tests, follow these steps. You must have at least node v10 and [yarn](https://yarnpkg.com/) installed.
