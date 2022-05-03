@@ -1,4 +1,4 @@
-# QuickSwap SDK
+# EvmoSwap SDK
 
 This repository has been forked from [UniswapV2](https://github.com/Uniswap/uniswap-sdk)
 
@@ -9,13 +9,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/QuickSwap/QuickSwap-sdk.git
+git clone https://github.com/evmoswap/evmoswap-sdkv2.git
 ```
 
-Move into the quickswap-sdk working directory
+Move into the evmoswap-sdkv2 working directory
 
 ```sh
-cd QuickSwap-sdk/
+cd evmoswap-sdkv2/
 ```
 
 Install dependencies
